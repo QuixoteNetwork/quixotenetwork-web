@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkquixotenetwork_web=globalThis.webpackChunkquixotenetwork_web||[]).push([[1903],{1912(e){e.exports=JSON.parse('{"blogBasePath":"/quixotenetwork-web/blog","blogTitle":"Blog","authorsListPath":"/quixotenetwork-web/blog/authors"}')}}]);
